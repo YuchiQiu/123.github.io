@@ -14,7 +14,7 @@ Research Interests
 ======
 My primary research focus is in the field of mathematical and computational biology. My interests spand across various areas ranging from molecular biology to cell and development biology. I develop and apply a diverse set of methodlogies, including machine learning, multiscale modeling, and topological data analysis (TDA), to better understand the biological systems.
 - Data-driven modeling for single-cell omics data
-- TDA and AI-aided protein designs
+- Topological data analysis and machine learning-aided protein designs
 - Multiscale modeling on embryonic spatial pattern formation
 
 Education
