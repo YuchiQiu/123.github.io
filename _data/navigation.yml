@@ -1,18 +1,17 @@
 # main links links
 main:
-  - title: "CV"
-    url: https://yuchiqiu.github.io/files/CURRICULUM VITAE.pdf
+
     
   - title: "Publications"
     url: /publications/
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+  #  url: /research/
   #- title: "Talks"
   #  url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
-    
+  - title: "CV"
+    url: https://yuchiqiu.github.io/files/CURRICULUM VITAE.pdf
   #- title: "Portfolio"
   #  url: /portfolio/
         
