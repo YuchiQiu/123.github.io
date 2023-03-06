@@ -4,9 +4,9 @@ main:
     url: https://yuchiqiu.github.io/files/CURRICULUM VITAE.pdf
     
   - title: "Publications"
-    url: /Publications/
+    url: /publications/
   - title: "Research"
-    url: /Research/
+    url: /research/
   #- title: "Talks"
   #  url: /talks/    
 
