@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: https://yuchiqiu.github.io/files/CURRICULUM VITAE.pdf
     
-  - title: "Research"
-    url: /Research/
+  - title: "Publications"
+    url: /Publications/
 
   #- title: "Talks"
   #  url: /talks/    
