@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the Department of Mathematics, Michigan State University, supervised by [Guo-Wei Wei] (https://users.math.msu.edu/users/weig/)
+I am a postdoc in the Department of Mathematics, Michigan State University, supervised by [Guo-Wei Wei](https://users.math.msu.edu/users/weig/)
 
 Research Interests
 ======
@@ -20,7 +20,7 @@ My primary research focus is in the field of mathematical and computational biol
 Education
 ------
 - Ph.D. 2020, Mathematics, University of California, Irvine
-    Advisor: [Qing Nie] (https://faculty.sites.uci.edu/qnie/)
+    Advisor: [Qing Nie](https://faculty.sites.uci.edu/qnie/)
 - B.S. 2014, Computational Mathematics, Nanjing University
 
 Employment
