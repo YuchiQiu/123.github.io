@@ -22,9 +22,9 @@ Education
 - Ph.D. 2020, Mathematics, University of California, Irvine.
 
     Advisor: [Qing Nie](https://faculty.sites.uci.edu/qnie/)
-- B.S. 2014, Computational Mathematics, Nanjing University
+- B.S. 2014, Computational Mathematics, Nanjing University.
 
 Employment
 ------
 - Research Associate (2020-present)
-    Deparment of Mathematics, Michigan State University
+    Deparment of Mathematics, Michigan State University.
