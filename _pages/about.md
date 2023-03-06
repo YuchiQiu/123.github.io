@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Email: qiuyuchi@msu.edu
 
 I am a postdoc in the Department of Mathematics, Michigan State University, supervised by [Guo-Wei Wei](https://users.math.msu.edu/users/weig/)
 
