@@ -4,7 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
+---
 MSU
+======
 - Math 234: Multivariable Calculus (Fall 2022)
 - Math 133: Single Variable Calculus I (Spring 2022)
 - Math 134: Single Variable Calculus II (Spring 2021)
