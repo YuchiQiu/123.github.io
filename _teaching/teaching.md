@@ -1,5 +1,8 @@
 ---
-collection: teaching
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
 MSU
 - Math 234: Multivariable Calculus (Fall 2022)
