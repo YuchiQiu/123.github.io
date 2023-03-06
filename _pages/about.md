@@ -10,6 +10,8 @@ redirect_from:
 
 I am a postdoc in the Department of Mathematics, Michigan State University, supervised by [Guo-Wei Wei](https://users.math.msu.edu/users/weig/)
 
+Email: qiuyuchi@msu.edu
+
 Research Interests
 ======
 My primary research focus is in the field of mathematical and computational biology. My interests spand across various areas ranging from molecular biology to cell and development biology. I develop and apply a diverse set of methodlogies, including machine learning, multiscale modeling, and topological data analysis (TDA), to better understand the biological systems.
