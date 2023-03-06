@@ -11,8 +11,8 @@ Selected publications:
 
 # Topological data analysis and machine learning-aided protein designs
 ## TDA-based machine learning model for protein fitness predictions  
-- [Persistent spectral theory-guided protein engineering](https://www.nature.com/articles/s43588-022-00394-y.epdf?sharing_token=Us2OFwUI5lktJssa7uBrqNRgN0jAjWel9jnR3ZoTv0MF0aPltVyaX_UcXm1hWnBwSLJ6-YZ_1vgms9EgYgJF7FKjmHlBucgR1oKxp8m1dFBXtMHBI0N3X41vd-uT2CHo7xfbIWrrCrvdlkcYedXcc3W9Uel18qnHXrYu_iOLj68%3D), \\
-*Nature Computational Science*, 2023. \\
+- [Persistent spectral theory-guided protein engineering](https://www.nature.com/articles/s43588-022-00394-y.epdf?sharing_token=Us2OFwUI5lktJssa7uBrqNRgN0jAjWel9jnR3ZoTv0MF0aPltVyaX_UcXm1hWnBwSLJ6-YZ_1vgms9EgYgJF7FKjmHlBucgR1oKxp8m1dFBXtMHBI0N3X41vd-uT2CHo7xfbIWrrCrvdlkcYedXcc3W9Uel18qnHXrYu_iOLj68%3D), \
+*Nature Computational Science*, 2023. \
 **Yuchi Qiu** and Guo-Wei Wei. 
 - [Persistent Laplacian projected Omicron BA. 4 and BA. 5 to become new dominating variants](https://www.sciencedirect.com/science/article/abs/pii/S0010482522009702), 
 *Computers in Biology and Medicine*, 2022. 
