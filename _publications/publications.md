@@ -8,14 +8,14 @@ author_profile: true
 
 # Selected publications:
 ## Topological data analysis and machine learning-aided protein designs
-### TDA-based machine learning model for protein fitness predictions  
+### TDA-based machine learning model for protein fitness predictions:  
 - [Persistent spectral theory-guided protein engineering](https://www.nature.com/articles/s43588-022-00394-y.epdf?sharing_token=Us2OFwUI5lktJssa7uBrqNRgN0jAjWel9jnR3ZoTv0MF0aPltVyaX_UcXm1hWnBwSLJ6-YZ_1vgms9EgYgJF7FKjmHlBucgR1oKxp8m1dFBXtMHBI0N3X41vd-uT2CHo7xfbIWrrCrvdlkcYedXcc3W9Uel18qnHXrYu_iOLj68%3D), \
 *Nature Computational Science*, 2023. \
 **Yuchi Qiu** and Guo-Wei Wei. 
 - [Persistent Laplacian projected Omicron BA. 4 and BA. 5 to become new dominating variants](https://www.sciencedirect.com/science/article/abs/pii/S0010482522009702), \
 *Computers in Biology and Medicine*, 2022. \
 Jiahui Chen, **Yuchi Qiu**, Rui Wang, and Guo-Wei Wei. 
-### Machine learning models for protein fitness optimizations
+### Machine learning models for protein fitness optimizations:
 - [Cluster learning-assisted directed evolution](https://www.nature.com/articles/s43588-021-00168-y),\
 *Nature Computational Science*, 2021. \
 **Yuchi Qiu**, Jian Hu, and Guo-Wei Wei.
@@ -23,7 +23,7 @@ Jiahui Chen, **Yuchi Qiu**, Rui Wang, and Guo-Wei Wei.
 *Journal of Chemical Information and Modeling*, 2022. \
 **Yuchi Qiu**, Guo-Wei Wei.
 
-## Multi-scale Modeling for embryonic spatial pattern formation
+## Multi-scale Modeling for embryonic spatial pattern formation:
 - [Multiple morphogens and rapid elongation promote segmental patterning during development](https://doi.org/10.1371/journal.pcbi.1009077), \
 *PLoS Computational Biology*, 2021. \
 **Yuchi Qiu**, Lianna Fung, Thomas Schilling, Qing Nie
@@ -34,7 +34,7 @@ Yilun Zhu, **Yuchi Qiu**, Weitao Chen, Qing Nie, and Arthur Lander.
 *Discrete and Continuous Dynamical System -B*, 2019. \
 **Yuchi Qiu**, Weitao Chen, Qing Nie.
 
-## Numerical methods
+## Numerical methods:
 - [A hybrid method for stiff reaction–diffusion equations](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2019144), \
 *Discrete and Continuous Dynamical System -B*, 2019. \
 **Yuchi Qiu**, Weitao Chen, Qing Nie.
