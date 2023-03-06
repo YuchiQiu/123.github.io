@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the Department of Mathematics, Michigan State University, supervised by [Guo-Wei Wei](https://users.math.msu.edu/users/weig/)
+I am a postdoc in the Department of Mathematics, Michigan State University, supervised by [Guo-Wei Wei](https://users.math.msu.edu/users/weig/).
 
 Research Interests
 ======
