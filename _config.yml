@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuchi Qiu"
-  avatar           : "photo1.png"
+  avatar           : #"photo1.png"
   bio              : "Postdoc, Mathematics, Michigan State University"
   location         : "East Lansing, Michigan"
   employer         :
