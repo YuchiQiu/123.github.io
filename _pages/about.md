@@ -12,7 +12,7 @@ I am a postdoc in the Department of Mathematics, Michigan State University, supe
 
 Research Interests
 ======
-My primary research focus is in the field of mathematical and computational biology. My interests spand across various areas ranging from molecular biology to cell and development biology. I develop and apply a diverse set of methodlogies, including machine learning, multiscale modeling, and topological data analysis (TDA), to better understand the biological systems.
+My research focuses on computational mathematics and data science, and use them to bridge the gap between intricate biological phenomena and their mathematical representation. I use machine intelligence, multiscale modeling, and topological data analysis (TDA) to understand complex biological data. My interests spand across diverse range of areas from molecular biology to cell and development biology.
 - Data-driven modeling for single-cell omics data
 - Topological data analysis and machine learning-aided protein designs
 - Multiscale modeling on embryonic spatial pattern formation
