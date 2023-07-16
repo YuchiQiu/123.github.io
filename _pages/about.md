@@ -16,7 +16,7 @@ My research focuses on computational mathematics and data science, and use them 
 
 - Data-driven modeling for spatio-temporal dynamics of single-cell omics data
   * Graph neural networks
-  * Deep learning-based solver for high dimensional PDEs (~10^4)
+  * Deep learning-based solver for high dimensional PDEs (~$10^4$)
 - AI-aided protein designs
   * Topological data analysis
   * Deep protein language models
