@@ -7,8 +7,15 @@ author_profile: true
 **FULL LIST** of publications are available in my [**google scholar**](https://scholar.google.com/citations?user=JC-IJDAAAAAJ&hl=en&oi=ao) or in my [**CV**](https://yuchiqiu.github.io/files/CURRICULUM%20VITAE.pdf).
 
 # Selected publications:
-## Topological data analysis and machine learning-aided protein designs
+## Data-driven modeling for spatio-temporal dynamics of single-cell omics data
+- NeuralGene: Inferring gene regulation and cell fate dynamics from Neural ODEs.\
+*Journal of Machine Learning for Modeling and Computing*, (accepted) 2023.\
+Yutong Sha<sup>#</sup>, **Yuchi Qiu<sup>#</sup>**, and Qing Nie. (#: co-first)
 
+## AI-aided protein designs
+- Artificial intelligence-aided protein engineering: from topological data analysis to deep protein language models.\
+*Briefings in Bioinformatics*, (final revision) 2023.\
+**Yuchi Qiu** and Guo-Wei Wei. 
 - [Persistent spectral theory-guided protein engineering](https://www.nature.com/articles/s43588-022-00394-y.epdf?sharing_token=Us2OFwUI5lktJssa7uBrqNRgN0jAjWel9jnR3ZoTv0MF0aPltVyaX_UcXm1hWnBwSLJ6-YZ_1vgms9EgYgJF7FKjmHlBucgR1oKxp8m1dFBXtMHBI0N3X41vd-uT2CHo7xfbIWrrCrvdlkcYedXcc3W9Uel18qnHXrYu_iOLj68%3D), \
 *Nature Computational Science*, 2023. \
 **Yuchi Qiu** and Guo-Wei Wei. 
