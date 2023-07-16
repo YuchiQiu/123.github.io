@@ -11,8 +11,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
   - title: "CV"
+    url: /cv/    
+
   #  url: https://yuchiqiu.github.io/files/CURRICULUM VITAE.pdf
-      url: /cv/    
   #- title: "Portfolio"
   #  url: /portfolio/
         
