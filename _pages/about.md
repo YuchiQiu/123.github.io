@@ -12,7 +12,7 @@ I am a postdoc in the Department of Mathematics, Michigan State University, supe
 
 Research Interests
 ======
-My research use computational mathematics and data science to bridge the gap between intricate biological phenomena and their mathematical representation. Specifically, I build interpretable artificial intelligence (AI) models by developing and combining deep/machine learning, multiscale modeling, and topological data analysis (TDA) methods to understand fundamental biological mechanisms, such as gene regulation and cell communications, and design treatment to diseases. These topics span across diverse range of areas from molecular biology to cell and development biology.
+My research use **computational mathematics** and **data science** to bridge the gap between intricate biological phenomena and their mathematical representation. Specifically, I build **interpretable artificial intelligence (AI)** models by developing and combining **deep/machine learning**, **multiscale modeling**, and **topological data analysis (TDA)** methods to understand fundamental biological mechanisms, such as gene regulation and cell communications, and design treatment to diseases. These topics span across diverse range of areas from **molecular biology** to **cell and development biology**.
 
 - Data-driven modeling for spatio-temporal dynamics of single-cell omics data
   * Graph neural networks
