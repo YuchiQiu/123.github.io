@@ -5,10 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% include base_path %}
-
----
-
 Education
 ======
 * B.S. in Computational Mathematics, Nanjing University, China, 2014
