@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the Department of Mathematics, Michigan State University, supervised by [Guo-Wei Wei](https://users.math.msu.edu/users/weig/).
+I am a postdoc in the Department of Mathematics, Michigan State University, supervised by [Guo-Wei Wei](https://users.math.msu.edu/users/weig/). I received  Ph.D. (2020) in Mathematics from Department of Mathematics, University of California, Irvine, advised by [Qing Nie](https://faculty.sites.uci.edu/qnie/).
 
 Research Interests
 ======
@@ -24,16 +24,3 @@ My research use computational mathematics and data science to bridge the gap bet
 - Multiscale modeling on embryonic spatial pattern formation
   * Stochastic PDEs
   * Subcellular element methods
-
-Education
-------
-- Ph.D. 2020, Mathematics, University of California, Irvine.
-
-    Advisor: [Qing Nie](https://faculty.sites.uci.edu/qnie/)
-- B.S. 2014, Computational Mathematics, Nanjing University.
-
-Employment
-------
-- Research Associate (2020-present)
-
-    Deparment of Mathematics, Michigan State University.
