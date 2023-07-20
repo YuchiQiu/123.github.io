@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**FULL LIST** of publications are available in my [**google scholar**](https://scholar.google.com/citations?user=JC-IJDAAAAAJ&hl=en&oi=ao) or in my [**CV**](https://yuchiqiu.github.io/files/CURRICULUM%20VITAE.pdf).
+**FULL LIST** of publications are available in my [**google scholar**](https://scholar.google.com/citations?user=JC-IJDAAAAAJ&hl=en&oi=ao).
 
 # Selected publications:
 ## Data-driven modeling for spatio-temporal dynamics of single-cell omics data
