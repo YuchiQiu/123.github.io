@@ -15,6 +15,9 @@ Education
  
 Employment
 ======
-* 2020-Present: Postdoc
+* 2023-present: Postdoc
+  * Department of Mathematics, University of California, Irvine
+  * Mentor Professor [Qing Nie](https://faculty.sites.uci.edu/qnie/)
+* 2020-2023: Postdoc
   * Department of Mathematics, Michigan State University
   * Mentor: Professor [Guo-Wei Wei](https://users.math.msu.edu/users/weig/)
