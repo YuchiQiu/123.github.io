@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the Department of Mathematics, Michigan State University, supervised by [Guo-Wei Wei](https://users.math.msu.edu/users/weig/). I received  Ph.D. (2020) in Mathematics from Department of Mathematics, University of California, Irvine, advised by [Qing Nie](https://faculty.sites.uci.edu/qnie/).
+I am a postdoc in the Department of Mathematics, University of California, Irvine, working with [Qing Nie](https://faculty.sites.uci.edu/qnie/). Previously, I was a postdoc at Michigan State University, supervised by [Guo-Wei Wei](https://users.math.msu.edu/users/weig/). I received  Ph.D. (2020) at University of California, Irvine.
 
 Research Interests
 ======
