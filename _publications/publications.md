@@ -8,14 +8,15 @@ author_profile: true
 
 # Selected publications:
 ## Data-driven modeling for spatio-temporal dynamics of single-cell omics data
+- Reconstruct growth and dynamic trajectories from single-cell transcriptomics data. Yutong Sha, **Yuchi Qiu**, Peijie Zhou, Qing Nie. **_Nature Machine Intelligence_** (accepted), 2023.
 - [NeuralGene: Inferring gene regulation and cell fate dynamics from Neural ODEs.](https://www.dl.begellhouse.com/download/article/1fbbfd1a71185cf9/JMLMC0403(1)-47369.pdf)\
 Yutong Sha<sup>#</sup>, **Yuchi Qiu<sup>#</sup>**, and Qing Nie. (#: co-first)\
-**_Journal of Machine Learning for Modeling and Computing_**, (accepted) 2023.
+**_Journal of Machine Learning for Modeling and Computing_**, 2023.
 
 ## AI-aided protein designs
-- Artificial intelligence-aided protein engineering: from topological data analysis to deep protein language models.\
+- [Artificial intelligence-aided protein engineering: from topological data analysis to deep protein language models](https://academic.oup.com/bib/article/24/5/bbad289/7241306),\
 **Yuchi Qiu** and Guo-Wei Wei.\
-**_Briefings in Bioinformatics_**, (accepted) 2023.
+**_Briefings in Bioinformatics_**, 2023.
 - [Persistent spectral theory-guided protein engineering](https://www.nature.com/articles/s43588-022-00394-y.epdf?sharing_token=Us2OFwUI5lktJssa7uBrqNRgN0jAjWel9jnR3ZoTv0MF0aPltVyaX_UcXm1hWnBwSLJ6-YZ_1vgms9EgYgJF7FKjmHlBucgR1oKxp8m1dFBXtMHBI0N3X41vd-uT2CHo7xfbIWrrCrvdlkcYedXcc3W9Uel18qnHXrYu_iOLj68%3D), \
 **Yuchi Qiu** and Guo-Wei Wei. \
 **_Nature Computational Science_**, 2023. 
