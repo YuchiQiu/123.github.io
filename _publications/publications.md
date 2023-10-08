@@ -8,7 +8,10 @@ author_profile: true
 
 # Selected publications:
 ## Data-driven modeling for spatio-temporal dynamics of single-cell omics data
-- Reconstruct growth and dynamic trajectories from single-cell transcriptomics data. Yutong Sha, **Yuchi Qiu**, Peijie Zhou, Qing Nie. **_Nature Machine Intelligence_** (accepted), 2023. [PREPRINT LINK](https://ucirvine-my.sharepoint.com/:f:/r/personal/yuchiq_ad_uci_edu/Documents/Share_YQ?csf=1&web=1&e=9KsJSR)
+- Reconstruct growth and dynamic trajectories from single-cell transcriptomics data.
+Yutong Sha, **Yuchi Qiu**, Peijie Zhou, Qing Nie.
+[PREPRINT LINK](https://ucirvine-my.sharepoint.com/:f:/r/personal/yuchiq_ad_uci_edu/Documents/Share_YQ?csf=1&web=1&e=9KsJSR)
+**_Nature Machine Intelligence_** (accepted), 2023.
 - [NeuralGene: Inferring gene regulation and cell fate dynamics from Neural ODEs.](https://www.dl.begellhouse.com/download/article/1fbbfd1a71185cf9/JMLMC0403(1)-47369.pdf)\
 Yutong Sha<sup>#</sup>, **Yuchi Qiu<sup>#</sup>**, and Qing Nie. (#: co-first)\
 **_Journal of Machine Learning for Modeling and Computing_**, 2023.
