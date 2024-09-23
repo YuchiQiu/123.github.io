@@ -12,15 +12,14 @@ I am a postdoc in the Department of Mathematics, University of California, Irvin
 
 Research Interests
 ======
-My research use **computational mathematics** and **data science** to bridge the gap between intricate biological phenomena and their mathematical representation. Specifically, I build **interpretable artificial intelligence (AI)** models by developing and combining **deep/machine learning**, **multiscale modeling**, and **topological data analysis (TDA)** methods to understand fundamental biological mechanisms, such as gene regulation and cell communications, and design treatment to diseases. These topics span across diverse range of areas from **molecular biology** to **cell and development biology**.
+My research lies on computational biology by combining computational mathematics and data science to bridge the gap between intricate biological phenomena and their mathematical representation. I am interested in building interpretable artificial intelligence (AI) models by developing and combining deep/machine learning, multiscale modeling, and topological data analysis (TDA) methods. 
 
-- Data-driven modeling for spatio-temporal dynamics of single-cell omics data
+- Spatio-temporal cell fate dynamics
+  * scRNA-seq & spatial transcriptomics
   * Graph neural networks
-  * Deep learning-based solver for high dimensional PDEs
-- AI-aided protein designs
-  * Topological data analysis
-  * Deep protein language models (e.g., Transformer, NLP models)
+  * Data-driven and multi-scale modeling
+- AI-aided protein engineering
+  * Computational topology
+  * Protein language models
   * Bayesian optimization
-- Multiscale modeling on embryonic spatial pattern formation
-  * Stochastic PDEs
-  * Subcellular element methods
+
