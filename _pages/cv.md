@@ -15,7 +15,9 @@ Education
  
 Employment
 ======
-* 2023-present: Postdoc
+* 2025-present: Assistant Professor
+  * Department of Biochemistry and Molecular Genetics, University of Illinois Chicago 
+* 2023-2024: Postdoc
   * Department of Mathematics, University of California, Irvine
   * Mentor Professor [Qing Nie](https://faculty.sites.uci.edu/qnie/)
 * 2020-2023: Postdoc
