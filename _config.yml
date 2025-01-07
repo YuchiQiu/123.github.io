@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+s# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -86,7 +86,7 @@ author:
   location         : "Chicago, Illinois"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=JC-IJDAAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AFix5MZDsXiqqbtkwgum58pNe83xCUPyZp2YrgkgVTRhDGAyAUYEEUmlbIWVsHSYn3Zx422_5WqOERoZn5n0bg&user=QGKhmEQAAAAJ"
   email            : "qiuyuchi@uic.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
