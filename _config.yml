@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "yuchiq@uci.edu"
+    email                : "qiuyuchi@uic.edu"
   generatedFields:
     date:
       type               : "date"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuchi Qiu"
   avatar           : "photo2.png"
-  bio              : "Postdoc, Mathematics, UC Irvine"
-  location         : "Irvine, California"
+  bio              : "Assistant Professor, UIC"
+  location         : "Chicago, Illinois"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JC-IJDAAAAAJ&hl=en&oi=ao"
-  email            : "yuchiq@uci.edu"
+  email            : "qiuyuchi@uic.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
